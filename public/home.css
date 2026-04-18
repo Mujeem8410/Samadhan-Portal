@@ -216,9 +216,13 @@ footer {
   display: flex;
   justify-content: center;
 }
+ .mt-4 {
+  margin-top: 40px; 
+}
 
 .team-bg {
-  background: url('SGb.jpeg') no-repeat center center/cover;
+background: url('SGb.jpeg') no-repeat center center;
+  background-size: contain;
   position: absolute;
   top: 0;
   left: 0;
