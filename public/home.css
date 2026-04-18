@@ -221,8 +221,7 @@ footer {
 }
 
 .team-bg {
-  background: url('SGb.jpeg') no-repeat center center;
-  background-size: absolute;
+  background: url('SGb.jpeg') no-repeat center center/cover;
   position: absolute;
   top: 0;
   left: 0;
