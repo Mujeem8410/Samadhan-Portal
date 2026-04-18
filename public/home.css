@@ -217,12 +217,11 @@ footer {
   justify-content: center;
 }
  .mt-4 {
-  margin-top: 100px; 
+  margin-top: 40px; 
 }
 
 .team-bg {
-background: url('SGb.jpeg') no-repeat center center;
-  background-size: contain;
+  background: url('SGb.jpeg') no-repeat center center/cover;
   position: absolute;
   top: 0;
   left: 0;
@@ -232,6 +231,7 @@ background: url('SGb.jpeg') no-repeat center center;
   filter: blur(0px);
   z-index: 0;
 }
+
 .team-content {
   position: relative;
   z-index: 1;
