@@ -13,7 +13,7 @@ router.post("/signup", async (req, res) => {
 
     const hashedPassword = await bcrypt.hash(password, 10);
     user = new User({ email, password: hashedPassword });
-    if(email==="muzeemsaifi88@gmail.com" && password === "Admin"){
+    if(email==="pragyamishra.tech@gmail.com" && password === "Admin"){
       user.role ="admin";
     }
     await user.save();
