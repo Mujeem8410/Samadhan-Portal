@@ -23,7 +23,7 @@ A comprehensive backend solution for managing grievance redressal and complaint 
 
 ---
 
-## 📖 Overview
+##  Overview
 
 **Samadhan Portal** is a robust backend application designed to streamline complaint and grievance management. It provides a centralized platform for users to lodge complaints, track their status, and receive timely resolutions. The system ensures data security through encryption, secure authentication, and comprehensive session management.
 
@@ -36,7 +36,7 @@ A comprehensive backend solution for managing grievance redressal and complaint 
 
 ---
 
-## ✨ Features
+##  Features
 
 - **User Authentication**: Secure login/signup with bcrypt password hashing
 - **Complaint Management**: Create, update, and track complaint status
@@ -50,7 +50,7 @@ A comprehensive backend solution for managing grievance redressal and complaint 
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Technology | Version | Purpose |
 |-----------|---------|---------|
@@ -68,7 +68,7 @@ A comprehensive backend solution for managing grievance redressal and complaint 
 
 ---
 
-## 📦 Prerequisites
+##  Prerequisites
 
 Before setting up the project, ensure you have:
 
@@ -79,7 +79,7 @@ Before setting up the project, ensure you have:
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone the Repository
 
@@ -136,7 +136,7 @@ sudo systemctl start mongod
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 ### Environment Variables
 
@@ -153,7 +153,7 @@ sudo systemctl start mongod
 
 ---
 
-## 📝 Usage
+##  Usage
 
 ### Starting the Server
 
@@ -187,7 +187,7 @@ curl -X POST http://localhost:5000/api/auth/register \
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Samadhan-Portal/
@@ -215,7 +215,7 @@ Samadhan-Portal/
 
 ---
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 ### Authentication
 ```
@@ -288,7 +288,7 @@ The application implements multiple security measures:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please follow these guidelines:
 
@@ -306,7 +306,7 @@ We welcome contributions! Please follow these guidelines:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **ISC License**. See the [LICENSE](LICENSE) file for details.
 
@@ -321,7 +321,7 @@ This project is licensed under the **ISC License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## 📞 Support
+##  Support
 
 For issues, bugs, or feature requests, please:
 - Open an [Issue](https://github.com/Mujeem8410/Samadhan-Portal/issues)
@@ -338,7 +338,7 @@ For issues, bugs, or feature requests, please:
 
 ---
 
-## 📚 Additional Resources
+##  Additional Resources
 
 - [Express.js Documentation](https://expressjs.com/)
 - [MongoDB Documentation](https://docs.mongodb.com/)
